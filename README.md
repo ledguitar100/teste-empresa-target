@@ -62,17 +62,17 @@ else:
 
 3) Descubra a lógica e complete o próximo elemento: 
 
-a) 1, 3, 5, 7, ___9   Segue uma sequência de dois em dois.
+a) 1, 3, 5, 7, ___9   Sequência de numeros impares;
 
-b) 2, 4, 8, 16, 32, 64, ____128   Segue a sequência dos bits
+b) 2, 4, 8, 16, 32, 64, ____128   Sequencia dobra o item antecedente;
 
-c) 0, 1, 4, 9, 16, 25, 36, ____  49  Segue a sequência somando os números impares 0+1=1 ,1+3= 4, 4+5=9 , 9+7=16 e assim por diante até chegar no 49..
+c) 0, 1, 4, 9, 16, 25, 36, ____  49  Sequência dos quadrados dos numeros 1,2,3,4,5,6 e o proximo termo seria 7ao quadrado = 49..
 
-d) 4, 16, 36, 64, ____  100  Segue a sequência de multiplicação dos números pares por si mesmo.
+d) 4, 16, 36, 64, ____  100  Sequência dos quadrados dos numeros pares;
 
-e) 1, 1, 2, 3, 5, 8, ____ 13    Sequência de Fibonacci, onde os números somam com o anterior
+e) 1, 1, 2, 3, 5, 8, ____ 13    Sequência de Fibonacci, o termo é igual a soma dos dois elementos antecedentes;
 
-f) 2,10, 12, 16, 17, 18, 19, ____ 200 Sequência de números com a letra D
+f) 2,10, 12, 16, 17, 18, 19, ____ 200 Sequência de números que iniciam com a letra D;
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
